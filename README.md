@@ -7,22 +7,22 @@ Model setting views can be reordered, visibility toggled, and even renamed using
 
 Users can also choose from a variety of viewing styles, including adaptive layout, compact or expanded layouts, and custom layouts.
 
-## Open Source Projects
+## Follow me on socials
+- [Follow me on LinkedIn](https://www.linkedin.com/in/david-vasquez-81652b20)
+
+## Open source projects
 
 * ModelSettingViewModeling
-* ModelSettingSupport
+* [ModelSettingSupport](https://github.com/davidcvasquez/ModelSettingsSupport)
 * LocalizableStringBundle
-* NDGeometry
-* CompactUUID
+* [NDGeometry](https://github.com/davidcvasquez/NDGeometry)
+* [CompactUUID](https://github.com/davidcvasquez/CompactUUID)
 * LoggerCategories
 
-![ModuleDependencies](ModuleDependencies.png "Module Dependencies")
+## How the projects are organized
+  ![ModuleDependencies](ModuleDependencies.png "Module Dependencies")
 
 <!--
-**davidcvasquez/davidcvasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
