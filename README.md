@@ -17,7 +17,7 @@ Users can also choose from a variety of viewing styles, including adaptive layou
 * LocalizableStringBundle
 * [NDGeometry](https://github.com/davidcvasquez/NDGeometry)
 * [CompactUUID](https://github.com/davidcvasquez/CompactUUID)
-* LoggerCategories
+* [LoggerCategories](https://github.com/davidcvasquez/LoggerCategories)
 
 ## How the projects are organized
   ![ModuleDependencies](ModuleDependencies.png "Module Dependencies")
