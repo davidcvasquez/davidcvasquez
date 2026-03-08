@@ -13,7 +13,7 @@ Users can also choose from a variety of viewing styles, including adaptive layou
 ## Open source projects
 
 * ModelSettingViewModeling - work in progress
-* [ModelSettingSupport](https://github.com/davidcvasquez/ModelSettingsSupport) Swift macros to generate type ID, name, and properties for model settings, suitable for registration as a `ModelSettingPropertiesContainer` and subsequent reference for UI layouts.  
+* [ModelSettingSupport](https://github.com/davidcvasquez/ModelSettingsSupport) Swift macros to generate type, ID, and name metadata for properties used as model settings, suitable for registration as a `ModelSettingPropertiesContainer` and reference by a view model.  
 * [LocalizableStringBundle](https://github.com/davidcvasquez/LocalizableStringBundle) Live, localized string bundles for multiple domains (packages or an app), with editing services to apply changes or reset a change and fallback to a value provided by an embedded bundle.
 * [NDGeometry](https://github.com/davidcvasquez/NDGeometry) A collection of Swift geometry types suitable for calculations on background threads, an extension of `CGAffineTransform` that provides X and Y shear transforms, and curve fitting of one or more cubic Bézier segments to a polyline.
 * [CompactUUID](https://github.com/davidcvasquez/CompactUUID) A compact representation of a `UUID`, along with a CLI tool and an Xcode Source Editor extension.
